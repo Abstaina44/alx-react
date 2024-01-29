@@ -6,7 +6,7 @@
 
 <p> Create a folder named task_0. </P>
 
-<p> Install webpack and webpack-cli </p> 
+ 
 As developer dependencies within the folder using npm.
 Install  <p> jQuery </p>  as a regular dependency using npm.
 
