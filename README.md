@@ -2,7 +2,7 @@
 
 ##  Front-end Webpack
 
-    1.Create and run Webpack using a basic installation.
+    Install webpack and webpack-cli
 
 <p> Create a folder named task_0. </P>
 
