@@ -1,4 +1,4 @@
 node_modules
 /dist/*LICENSE*
 package-lock.json
-bundle.js.LICENSE.txt
+public/bundle.js.LICENSE.txt
